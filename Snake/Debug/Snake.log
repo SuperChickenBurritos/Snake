@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\adi\source\repos\snake - copy\snake\source.cpp(64): warning C4309: 'initializing': truncation of constant value
+c:\users\adi\source\repos\snake - copy\snake\source.cpp(67): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\adi\source\repos\snake - copy\snake\source.cpp(67): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\adi\source\repos\snake - copy\snake\source.cpp(67): warning C4309: 'initializing': truncation of constant value
+c:\users\adi\source\repos\snake - copy\snake\source.cpp(71): warning C4309: '=': truncation of constant value
+c:\users\adi\source\repos\snake - copy\snake\source.cpp(74): warning C4309: '=': truncation of constant value
+c:\users\adi\source\repos\snake - copy\snake\source.cpp(208): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake.vcxproj -> C:\Users\Adi\source\repos\Snake - Copy\Debug\Snake.exe
